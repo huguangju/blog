@@ -4,7 +4,7 @@ date: 2023-04-07
 category:
   - 读源码
 tag:
-  - event-bus
+  - utils
 ---
 
 [mitt](https://github.com/developit/mitt) 是一个轻量级的 JavaScript 事件总线库，可以用于处理事件和消息传递。mitt 提供了一个简单而强大的 API，用于在程序中实现组件之间的松散耦合通信。

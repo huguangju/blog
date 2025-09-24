@@ -7,7 +7,7 @@ export default hopeTheme({
   hostname: "https://huguangju.cn",
 
   author: {
-    name: "huguangju",
+    name: "Hugo",
     url: "https://huguangju.cn",
   },
 
@@ -26,7 +26,7 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "Copyright © 2022-2024 Carson hu",
+  footer: "Copyright © 2022-2025 Hugo",
   displayFooter: true,
 
   // 博客相关

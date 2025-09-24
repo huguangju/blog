@@ -66,7 +66,7 @@ movingAverage.next(5); // 返回 6.0 = (10 + 3 + 5) / 3
 
 ## [最长重复子数组](https://leetcode.cn/problems/maximum-length-of-repeated-subarray/)
 
-给两个整数数组 `nums1` 和 `nums2` ，返回 `两个数组中 **公共的** 、长度最长的子数组的长度`。
+给两个整数数组 `nums1` 和 `nums2` ，返回 `两个数组中公共的 、长度最长的子数组的长度`。
 
 ### 思路
 
