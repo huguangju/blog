@@ -9,7 +9,15 @@
     "docs:clean-dev": "vuepress-vite dev src --clean-cache",
     "docs:dev": "vuepress-vite dev src",
     "docs:update-package": "pnpm dlx vp-update",
-    "clean:font-tags": "node scripts/remove-font-tags.cjs"
+    "clean:font-tags": "node scripts/remove-font-tags.cjs",
+    "setup": "./scripts/quick-start.sh setup",
+    "new": "./scripts/quick-start.sh new",
+    "clean": "./scripts/quick-start.sh clean",
+    "check-links": "./scripts/quick-start.sh check-links",
+    "optimize-imgs": "./scripts/quick-start.sh optimize-imgs",
+    "preview": "vuepress-vite build src && vuepress-vite preview src",
+    "lint": "eslint src --ext .js,.ts,.vue --fix",
+    "type-check": "vue-tsc --noEmit"
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.24",
@@ -18,5 +26,8 @@
     "vuepress": "2.0.0-rc.24",
     "vuepress-plugin-search-pro": "2.0.0-rc.59",
     "vuepress-theme-hope": "2.0.0-rc.94"
+  },
+  "dependencies": {
+    "@giscus/vue": "^3.1.1"
   }
 }

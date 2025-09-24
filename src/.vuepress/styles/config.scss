@@ -1,2 +1,22 @@
-// you can change config here
-$theme-color: #096dd9;
+// 响应式布局断点配置
+$pc: 1440px;
+$laptop: 1280px;
+$pad: 959px;
+$tablet: 719px;
+$mobile: 419px;
+
+// 主题色配置 - 参考 Vue 官方文档的清爽绿色
+$theme-color: #42b883;
+
+// 代码块配置
+$code-bg-color: (
+  light: #f6f8fa,
+  dark: #161b22,
+);
+$code-color: (
+  light: #24292f,
+  dark: #e6edf3,
+);
+
+// 颜色列表 - 更清爽的配色方案
+$colors: #42b883, #35495e, #4fc08d, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #feca57, #ff9ff3, #54a0ff;

@@ -1,0 +1,42 @@
+{
+  "project": {
+    "name": "Carson's Frontend Blog",
+    "description": "基于 VuePress 的前端技术博客，专注于源码学习、技术探索和知识分享",
+    "type": "blog",
+    "framework": "vuepress",
+    "theme": "vuepress-theme-hope"
+  },
+  "writing": {
+    "style": "technical-blog",
+    "tone": "professional-friendly",
+    "target_audience": "frontend-developers",
+    "language": "zh-CN",
+    "format": "markdown"
+  },
+  "content_guidelines": {
+    "max_article_length": 5000,
+    "min_article_length": 800,
+    "code_examples_required": true,
+    "include_references": true,
+    "use_headings": true,
+    "include_summary": true
+  },
+  "quality_standards": {
+    "technical_accuracy": "high",
+    "readability": "high",
+    "structure_clarity": "high",
+    "code_quality": "production-ready"
+  },
+  "categories": [
+    "frontend-source-code",
+    "technical-exploration",
+    "reading-notes",
+    "resources-sharing",
+    "life-records"
+  ],
+  "tags": [
+    "Vue.js", "React", "JavaScript", "TypeScript", "CSS", "HTML",
+    "Node.js", "Webpack", "Vite", "Performance", "Architecture",
+    "Algorithm", "Design-Pattern", "Best-Practice", "Tutorial"
+  ]
+}

@@ -1,1 +1,73 @@
-// you can change colors here
+// 背景色配置 - 更清爽的背景
+$vp-c-bg: (
+  light: #ffffff,
+  dark: #1a1a1a,
+);
+$vp-c-bg-alt: (
+  light: #f8f9fa,
+  dark: #242424,
+);
+$vp-c-bg-elv: (
+  light: #ffffff,
+  dark: #2d2d2d,
+);
+
+// 文字颜色 - 参考 Vue 官方文档
+$vp-c-text: (
+  light: #2c3e50,
+  dark: #adbac7,
+);
+$vp-c-text-mute: (
+  light: #476582,
+  dark: #768390,
+);
+$vp-c-text-subtle: (
+  light: #8b949e,
+  dark: #636c76,
+);
+
+// 强调色 - Vue 绿色系
+$vp-c-accent: #42b883;
+$vp-c-accent-hover: #369870;
+$vp-c-accent-bg: #42b883;
+$vp-c-accent-text: #ffffff;
+$vp-c-accent-soft: rgba(66, 184, 131, 0.1);
+
+// 边框颜色
+$vp-c-border: (
+  light: #e1e4e8,
+  dark: #30363d,
+);
+$vp-c-divider: (
+  light: #eaecef,
+  dark: #21262d,
+);
+$vp-c-border-hard: (
+  light: #d0d7de,
+  dark: #444c56,
+);
+
+// 阴影
+$vp-c-shadow: (
+  light: rgba(0, 0, 0, 0.1),
+  dark: rgba(0, 0, 0, 0.3),
+);
+
+// 控件颜色
+$vp-c-control: (
+  light: rgba(175, 184, 193, 0.2),
+  dark: rgba(110, 118, 129, 0.4),
+);
+$vp-c-control-hover: (
+  light: rgba(175, 184, 193, 0.3),
+  dark: rgba(110, 118, 129, 0.5),
+);
+$vp-c-control-disabled: (
+  light: #f6f8fa,
+  dark: #21262d,
+);
+
+// 导航栏配置
+$navbar-height: 3.6rem;
+$navbar-padding-x: 1.5rem;
+$navbar-padding-y: 0.7rem;
