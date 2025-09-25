@@ -10,7 +10,7 @@ importers:
     dependencies:
       '@giscus/vue':
         specifier: ^3.1.1
-        version: 3.1.1(vue@3.5.21)
+        version: 3.1.1(vue@3.5.22)
     devDependencies:
       '@vuepress/bundler-vite':
         specifier: 2.0.0-rc.24
@@ -19,17 +19,17 @@ importers:
         specifier: ^1.93.2
         version: 1.93.2
       vue:
-        specifier: ^3.5.21
-        version: 3.5.21
+        specifier: ^3.5.22
+        version: 3.5.22
       vuepress:
         specifier: 2.0.0-rc.24
-        version: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+        version: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
       vuepress-plugin-search-pro:
         specifier: 2.0.0-rc.59
-        version: 2.0.0-rc.59(sass-embedded@1.93.2)(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
+        version: 2.0.0-rc.59(sass-embedded@1.93.2)(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
       vuepress-theme-hope:
         specifier: 2.0.0-rc.94
-        version: 2.0.0-rc.94(markdown-it@14.1.0)(sass-embedded@1.93.2)(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
+        version: 2.0.0-rc.94(markdown-it@14.1.0)(sass-embedded@1.93.2)(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
 
 packages:
 
@@ -795,17 +795,17 @@ packages:
       vite: ^5.0.0 || ^6.0.0 || ^7.0.0
       vue: ^3.2.25
 
-  '@vue/compiler-core@3.5.21':
-    resolution: {integrity: sha512-8i+LZ0vf6ZgII5Z9XmUvrCyEzocvWT+TeR2VBUVlzIH6Tyv57E20mPZ1bCS+tbejgUgmjrEh7q/0F0bibskAmw==}
+  '@vue/compiler-core@3.5.22':
+    resolution: {integrity: sha512-jQ0pFPmZwTEiRNSb+i9Ow/I/cHv2tXYqsnHKKyCQ08irI2kdF5qmYedmF8si8mA7zepUFmJ2hqzS8CQmNOWOkQ==}
 
-  '@vue/compiler-dom@3.5.21':
-    resolution: {integrity: sha512-jNtbu/u97wiyEBJlJ9kmdw7tAr5Vy0Aj5CgQmo+6pxWNQhXZDPsRr1UWPN4v3Zf82s2H3kF51IbzZ4jMWAgPlQ==}
+  '@vue/compiler-dom@3.5.22':
+    resolution: {integrity: sha512-W8RknzUM1BLkypvdz10OVsGxnMAuSIZs9Wdx1vzA3mL5fNMN15rhrSCLiTm6blWeACwUwizzPVqGJgOGBEN/hA==}
 
-  '@vue/compiler-sfc@3.5.21':
-    resolution: {integrity: sha512-SXlyk6I5eUGBd2v8Ie7tF6ADHE9kCR6mBEuPyH1nUZ0h6Xx6nZI29i12sJKQmzbDyr2tUHMhhTt51Z6blbkTTQ==}
+  '@vue/compiler-sfc@3.5.22':
+    resolution: {integrity: sha512-tbTR1zKGce4Lj+JLzFXDq36K4vcSZbJ1RBu8FxcDv1IGRz//Dh2EBqksyGVypz3kXpshIfWKGOCcqpSbyGWRJQ==}
 
-  '@vue/compiler-ssr@3.5.21':
-    resolution: {integrity: sha512-vKQ5olH5edFZdf5ZrlEgSO1j1DMA4u23TVK5XR1uMhvwnYvVdDF0nHXJUblL/GvzlShQbjhZZ2uvYmDlAbgo9w==}
+  '@vue/compiler-ssr@3.5.22':
+    resolution: {integrity: sha512-GdgyLvg4R+7T8Nk2Mlighx7XGxq/fJf9jaVofc3IL0EPesTE86cP/8DD1lT3h1JeZr2ySBvyqKQJgbS54IX1Ww==}
 
   '@vue/devtools-api@6.6.4':
     resolution: {integrity: sha512-sGhTPMuXqZ1rVOk32RylztWkfXTRhuS7vgAKv0zjqk8gbsHkJ7xfFf+jbySxt7tWObEJwyKaHMikV/WGDiQm8g==}
@@ -819,22 +819,22 @@ packages:
   '@vue/devtools-shared@7.7.7':
     resolution: {integrity: sha512-+udSj47aRl5aKb0memBvcUG9koarqnxNM5yjuREvqwK6T3ap4mn3Zqqc17QrBFTqSMjr3HK1cvStEZpMDpfdyw==}
 
-  '@vue/reactivity@3.5.21':
-    resolution: {integrity: sha512-3ah7sa+Cwr9iiYEERt9JfZKPw4A2UlbY8RbbnH2mGCE8NwHkhmlZt2VsH0oDA3P08X3jJd29ohBDtX+TbD9AsA==}
+  '@vue/reactivity@3.5.22':
+    resolution: {integrity: sha512-f2Wux4v/Z2pqc9+4SmgZC1p73Z53fyD90NFWXiX9AKVnVBEvLFOWCEgJD3GdGnlxPZt01PSlfmLqbLYzY/Fw4A==}
 
-  '@vue/runtime-core@3.5.21':
-    resolution: {integrity: sha512-+DplQlRS4MXfIf9gfD1BOJpk5RSyGgGXD/R+cumhe8jdjUcq/qlxDawQlSI8hCKupBlvM+3eS1se5xW+SuNAwA==}
+  '@vue/runtime-core@3.5.22':
+    resolution: {integrity: sha512-EHo4W/eiYeAzRTN5PCextDUZ0dMs9I8mQ2Fy+OkzvRPUYQEyK9yAjbasrMCXbLNhF7P0OUyivLjIy0yc6VrLJQ==}
 
-  '@vue/runtime-dom@3.5.21':
-    resolution: {integrity: sha512-3M2DZsOFwM5qI15wrMmNF5RJe1+ARijt2HM3TbzBbPSuBHOQpoidE+Pa+XEaVN+czbHf81ETRoG1ltztP2em8w==}
+  '@vue/runtime-dom@3.5.22':
+    resolution: {integrity: sha512-Av60jsryAkI023PlN7LsqrfPvwfxOd2yAwtReCjeuugTJTkgrksYJJstg1e12qle0NarkfhfFu1ox2D+cQotww==}
 
-  '@vue/server-renderer@3.5.21':
-    resolution: {integrity: sha512-qr8AqgD3DJPJcGvLcJKQo2tAc8OnXRcfxhOJCPF+fcfn5bBGz7VCcO7t+qETOPxpWK1mgysXvVT/j+xWaHeMWA==}
+  '@vue/server-renderer@3.5.22':
+    resolution: {integrity: sha512-gXjo+ao0oHYTSswF+a3KRHZ1WszxIqO7u6XwNHqcqb9JfyIL/pbWrrh/xLv7jeDqla9u+LK7yfZKHih1e1RKAQ==}
     peerDependencies:
-      vue: 3.5.21
+      vue: 3.5.22
 
-  '@vue/shared@3.5.21':
-    resolution: {integrity: sha512-+2k1EQpnYuVuu3N7atWyG3/xoFWIVJZq4Mz8XNOdScFI0etES75fbny/oU4lKWk/577P1zmg0ioYvpGEDZ3DLw==}
+  '@vue/shared@3.5.22':
+    resolution: {integrity: sha512-F4yc6palwq3TT0u+FYf0Ns4Tfl9GRFURDN2gWG7L1ecIaS/4fCIuFOjMTnCyjsu/OK6vaDKLCrGAa+KvvH+h4w==}
 
   '@vuepress/bundler-vite@2.0.0-rc.24':
     resolution: {integrity: sha512-prgT3f6xOBC43rhfvzlfXY0wJKsI+oV5RC4s0YyVPZ0s5VQKI3RRD1aY+euiVFPks3Mjx+DxEtKBOLsJ7I6crA==}
@@ -1159,8 +1159,8 @@ packages:
   balloon-css@1.2.0:
     resolution: {integrity: sha512-urXwkHgwp6GsXVF+it01485Z2Cj4pnW02ICnM0TemOlkKmCNnDLmyy+ZZiRXBpwldUXO+aRNr7Hdia4CBvXJ5A==}
 
-  baseline-browser-mapping@2.8.6:
-    resolution: {integrity: sha512-wrH5NNqren/QMtKUEEJf7z86YjfqW/2uw3IL3/xpqZUC95SSVIFXYQeeGjL6FT/X68IROu6RMehZQS5foy2BXw==}
+  baseline-browser-mapping@2.8.7:
+    resolution: {integrity: sha512-bxxN2M3a4d1CRoQC//IqsR5XrLh0IJ8TCv2x6Y9N0nckNz/rTjZB3//GGscZziZOxmjP55rzxg/ze7usFI9FqQ==}
     hasBin: true
 
   bcrypt-ts@7.1.0:
@@ -1197,8 +1197,8 @@ packages:
     resolution: {integrity: sha512-L28STB170nwWS63UjtlEOE3dldQApaJXZkOI1uMFfzf3rRuPegHaHesyee+YxQ+W6SvRDQV6UrdOdRiR153wJg==}
     engines: {node: '>=6'}
 
-  caniuse-lite@1.0.30001743:
-    resolution: {integrity: sha512-e6Ojr7RV14Un7dz6ASD0aZDmQPT/A+eZU+nuTNfjqmRrmkmQlnTNWH0SKmqagx9PeW87UVqapSurtAXifmtdmw==}
+  caniuse-lite@1.0.30001745:
+    resolution: {integrity: sha512-ywt6i8FzvdgrrrGbr1jZVObnVv6adj+0if2/omv9cmR2oiZs30zL4DIyaptKcbOrBdOIc74QTMoJvSE2QHh5UQ==}
 
   ccount@2.0.1:
     resolution: {integrity: sha512-eyrF0jiFpY+3drT6383f1qhkbGsLSifNAjA61IUjZjmLCWjItY6LB9ft9YhoDgwfmclB2zhu51Lc7+95b8NRAg==}
@@ -2167,8 +2167,8 @@ packages:
     peerDependencies:
       vue: ^3.2.0
 
-  vue@3.5.21:
-    resolution: {integrity: sha512-xxf9rum9KtOdwdRkiApWL+9hZEMWE90FHh8yS1+KJAiWYh+iGWV1FquPjoO9VUHQ+VIhsCXNNyZ5Sf4++RVZBA==}
+  vue@3.5.22:
+    resolution: {integrity: sha512-toaZjQ3a/G/mYaLSbV+QsQhIdMo9x5rrqIpYRObsJ6T/J+RyCSFwN2LHNVH9v8uIcljDNa3QzPVdv3Y6b9hAJQ==}
     peerDependencies:
       typescript: '*'
     peerDependenciesMeta:
@@ -2450,10 +2450,10 @@ snapshots:
   '@esbuild/win32-x64@0.25.10':
     optional: true
 
-  '@giscus/vue@3.1.1(vue@3.5.21)':
+  '@giscus/vue@3.1.1(vue@3.5.22)':
     dependencies:
       giscus: 1.6.0
-      vue: 3.5.21
+      vue: 3.5.22
 
   '@jridgewell/sourcemap-codec@1.5.5': {}
 
@@ -2918,41 +2918,41 @@ snapshots:
 
   '@ungap/structured-clone@1.3.0': {}
 
-  '@vitejs/plugin-vue@6.0.1(vite@7.0.7(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)':
+  '@vitejs/plugin-vue@6.0.1(vite@7.0.7(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)':
     dependencies:
       '@rolldown/pluginutils': 1.0.0-beta.29
       vite: 7.0.7(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2)
-      vue: 3.5.21
+      vue: 3.5.22
 
-  '@vue/compiler-core@3.5.21':
+  '@vue/compiler-core@3.5.22':
     dependencies:
       '@babel/parser': 7.28.4
-      '@vue/shared': 3.5.21
+      '@vue/shared': 3.5.22
       entities: 4.5.0
       estree-walker: 2.0.2
       source-map-js: 1.2.1
 
-  '@vue/compiler-dom@3.5.21':
+  '@vue/compiler-dom@3.5.22':
     dependencies:
-      '@vue/compiler-core': 3.5.21
-      '@vue/shared': 3.5.21
+      '@vue/compiler-core': 3.5.22
+      '@vue/shared': 3.5.22
 
-  '@vue/compiler-sfc@3.5.21':
+  '@vue/compiler-sfc@3.5.22':
     dependencies:
       '@babel/parser': 7.28.4
-      '@vue/compiler-core': 3.5.21
-      '@vue/compiler-dom': 3.5.21
-      '@vue/compiler-ssr': 3.5.21
-      '@vue/shared': 3.5.21
+      '@vue/compiler-core': 3.5.22
+      '@vue/compiler-dom': 3.5.22
+      '@vue/compiler-ssr': 3.5.22
+      '@vue/shared': 3.5.22
       estree-walker: 2.0.2
       magic-string: 0.30.19
       postcss: 8.5.6
       source-map-js: 1.2.1
 
-  '@vue/compiler-ssr@3.5.21':
+  '@vue/compiler-ssr@3.5.22':
     dependencies:
-      '@vue/compiler-dom': 3.5.21
-      '@vue/shared': 3.5.21
+      '@vue/compiler-dom': 3.5.22
+      '@vue/shared': 3.5.22
 
   '@vue/devtools-api@6.6.4': {}
 
@@ -2974,33 +2974,33 @@ snapshots:
     dependencies:
       rfdc: 1.4.1
 
-  '@vue/reactivity@3.5.21':
+  '@vue/reactivity@3.5.22':
     dependencies:
-      '@vue/shared': 3.5.21
+      '@vue/shared': 3.5.22
 
-  '@vue/runtime-core@3.5.21':
+  '@vue/runtime-core@3.5.22':
     dependencies:
-      '@vue/reactivity': 3.5.21
-      '@vue/shared': 3.5.21
+      '@vue/reactivity': 3.5.22
+      '@vue/shared': 3.5.22
 
-  '@vue/runtime-dom@3.5.21':
+  '@vue/runtime-dom@3.5.22':
     dependencies:
-      '@vue/reactivity': 3.5.21
-      '@vue/runtime-core': 3.5.21
-      '@vue/shared': 3.5.21
+      '@vue/reactivity': 3.5.22
+      '@vue/runtime-core': 3.5.22
+      '@vue/shared': 3.5.22
       csstype: 3.1.3
 
-  '@vue/server-renderer@3.5.21(vue@3.5.21)':
+  '@vue/server-renderer@3.5.22(vue@3.5.22)':
     dependencies:
-      '@vue/compiler-ssr': 3.5.21
-      '@vue/shared': 3.5.21
-      vue: 3.5.21
+      '@vue/compiler-ssr': 3.5.22
+      '@vue/shared': 3.5.22
+      vue: 3.5.22
 
-  '@vue/shared@3.5.21': {}
+  '@vue/shared@3.5.22': {}
 
   '@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2)':
     dependencies:
-      '@vitejs/plugin-vue': 6.0.1(vite@7.0.7(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      '@vitejs/plugin-vue': 6.0.1(vite@7.0.7(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
       '@vuepress/bundlerutils': 2.0.0-rc.24
       '@vuepress/client': 2.0.0-rc.24
       '@vuepress/core': 2.0.0-rc.24
@@ -3012,8 +3012,8 @@ snapshots:
       postcss-load-config: 6.0.1(postcss@8.5.6)
       rollup: 4.52.2
       vite: 7.0.7(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2)
-      vue: 3.5.21
-      vue-router: 4.5.1(vue@3.5.21)
+      vue: 3.5.22
+      vue-router: 4.5.1(vue@3.5.22)
     transitivePeerDependencies:
       - '@types/node'
       - jiti
@@ -3035,8 +3035,8 @@ snapshots:
       '@vuepress/core': 2.0.0-rc.24
       '@vuepress/shared': 2.0.0-rc.24
       '@vuepress/utils': 2.0.0-rc.24
-      vue: 3.5.21
-      vue-router: 4.5.1(vue@3.5.21)
+      vue: 3.5.22
+      vue-router: 4.5.1(vue@3.5.22)
     transitivePeerDependencies:
       - supports-color
       - typescript
@@ -3059,8 +3059,8 @@ snapshots:
       '@vue/devtools-api': 7.7.7
       '@vue/devtools-kit': 7.7.7
       '@vuepress/shared': 2.0.0-rc.24
-      vue: 3.5.21
-      vue-router: 4.5.1(vue@3.5.21)
+      vue: 3.5.22
+      vue-router: 4.5.1(vue@3.5.22)
     transitivePeerDependencies:
       - typescript
 
@@ -3070,41 +3070,41 @@ snapshots:
       '@vuepress/markdown': 2.0.0-rc.24
       '@vuepress/shared': 2.0.0-rc.24
       '@vuepress/utils': 2.0.0-rc.24
-      vue: 3.5.21
+      vue: 3.5.22
     transitivePeerDependencies:
       - supports-color
       - typescript
 
-  '@vuepress/helper@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/helper@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
-      '@vue/shared': 3.5.21
-      '@vueuse/core': 13.9.0(vue@3.5.21)
+      '@vue/shared': 3.5.22
+      '@vueuse/core': 13.9.0(vue@3.5.22)
       cheerio: 1.1.2
       fflate: 0.8.2
       gray-matter: 4.0.3
-      vue: 3.5.21
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      vue: 3.5.22
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - typescript
 
-  '@vuepress/helper@2.0.0-rc.56(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/helper@2.0.0-rc.56(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
-      '@vue/shared': 3.5.21
-      '@vueuse/core': 11.3.0(vue@3.5.21)
+      '@vue/shared': 3.5.22
+      '@vueuse/core': 11.3.0(vue@3.5.22)
       cheerio: 1.0.0
       fflate: 0.8.2
       gray-matter: 4.0.3
-      vue: 3.5.21
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      vue: 3.5.22
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - '@vue/composition-api'
       - typescript
 
-  '@vuepress/highlighter-helper@2.0.0-rc.112(@vueuse/core@13.9.0(vue@3.5.21))(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/highlighter-helper@2.0.0-rc.112(@vueuse/core@13.9.0(vue@3.5.22))(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     optionalDependencies:
-      '@vueuse/core': 13.9.0(vue@3.5.21)
+      '@vueuse/core': 13.9.0(vue@3.5.22)
 
   '@vuepress/markdown@2.0.0-rc.24':
     dependencies:
@@ -3127,186 +3127,186 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@vuepress/plugin-active-header-links@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-active-header-links@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
-      '@vueuse/core': 13.9.0(vue@3.5.21)
-      vue: 3.5.21
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      '@vueuse/core': 13.9.0(vue@3.5.22)
+      vue: 3.5.22
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - typescript
 
-  '@vuepress/plugin-back-to-top@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-back-to-top@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vueuse/core': 13.9.0(vue@3.5.21)
-      vue: 3.5.21
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vueuse/core': 13.9.0(vue@3.5.22)
+      vue: 3.5.22
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - typescript
 
-  '@vuepress/plugin-blog@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-blog@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
       chokidar: 4.0.3
-      vue: 3.5.21
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      vue: 3.5.22
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - typescript
 
-  '@vuepress/plugin-catalog@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-catalog@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      vue: 3.5.21
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      vue: 3.5.22
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - typescript
 
-  '@vuepress/plugin-comment@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-comment@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vueuse/core': 13.9.0(vue@3.5.21)
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vueuse/core': 13.9.0(vue@3.5.22)
       giscus: 1.6.0
-      vue: 3.5.21
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      vue: 3.5.22
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - typescript
 
-  '@vuepress/plugin-copy-code@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-copy-code@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vueuse/core': 13.9.0(vue@3.5.21)
-      vue: 3.5.21
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vueuse/core': 13.9.0(vue@3.5.22)
+      vue: 3.5.22
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - typescript
 
-  '@vuepress/plugin-copyright@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-copyright@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vueuse/core': 13.9.0(vue@3.5.21)
-      vue: 3.5.21
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vueuse/core': 13.9.0(vue@3.5.22)
+      vue: 3.5.22
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - typescript
 
-  '@vuepress/plugin-git@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-git@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vueuse/core': 13.9.0(vue@3.5.21)
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vueuse/core': 13.9.0(vue@3.5.22)
       rehype-parse: 9.0.1
       rehype-sanitize: 6.0.0
       rehype-stringify: 10.0.1
       unified: 11.0.5
-      vue: 3.5.21
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      vue: 3.5.22
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - typescript
 
-  '@vuepress/plugin-icon@2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-icon@2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
       '@mdit/plugin-icon': 0.22.1(markdown-it@14.1.0)
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vueuse/core': 13.9.0(vue@3.5.21)
-      vue: 3.5.21
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vueuse/core': 13.9.0(vue@3.5.22)
+      vue: 3.5.22
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - markdown-it
       - typescript
 
-  '@vuepress/plugin-links-check@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-links-check@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - typescript
 
-  '@vuepress/plugin-markdown-chart@2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-markdown-chart@2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
       '@mdit/plugin-container': 0.22.1(markdown-it@14.1.0)
       '@mdit/plugin-plantuml': 0.22.2(markdown-it@14.1.0)
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vueuse/core': 13.9.0(vue@3.5.21)
-      vue: 3.5.21
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vueuse/core': 13.9.0(vue@3.5.22)
+      vue: 3.5.22
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - markdown-it
       - typescript
 
-  '@vuepress/plugin-markdown-ext@2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-markdown-ext@2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
       '@mdit/plugin-container': 0.22.1(markdown-it@14.1.0)
       '@mdit/plugin-footnote': 0.22.2(markdown-it@14.1.0)
       '@mdit/plugin-tasklist': 0.22.1(markdown-it@14.1.0)
       '@types/markdown-it': 14.1.2
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
       js-yaml: 4.1.0
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - markdown-it
       - typescript
 
-  '@vuepress/plugin-markdown-hint@2.0.0-rc.112(markdown-it@14.1.0)(vue@3.5.21)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-markdown-hint@2.0.0-rc.112(markdown-it@14.1.0)(vue@3.5.22)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
       '@mdit/plugin-alert': 0.22.2(markdown-it@14.1.0)
       '@mdit/plugin-container': 0.22.1(markdown-it@14.1.0)
       '@types/markdown-it': 14.1.2
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vueuse/core': 13.9.0(vue@3.5.21)
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vueuse/core': 13.9.0(vue@3.5.22)
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - markdown-it
       - typescript
       - vue
 
-  '@vuepress/plugin-markdown-image@2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-markdown-image@2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
       '@mdit/plugin-figure': 0.22.1(markdown-it@14.1.0)
       '@mdit/plugin-img-lazyload': 0.22.1(markdown-it@14.1.0)
       '@mdit/plugin-img-mark': 0.22.1(markdown-it@14.1.0)
       '@mdit/plugin-img-size': 0.22.2(markdown-it@14.1.0)
       '@types/markdown-it': 14.1.2
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - markdown-it
       - typescript
 
-  '@vuepress/plugin-markdown-include@2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-markdown-include@2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
       '@mdit/plugin-include': 0.22.1(markdown-it@14.1.0)
       '@types/markdown-it': 14.1.2
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - markdown-it
       - typescript
 
-  '@vuepress/plugin-markdown-math@2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-markdown-math@2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
       '@mdit/plugin-katex-slim': 0.23.1(markdown-it@14.1.0)
       '@mdit/plugin-mathjax-slim': 0.23.1(markdown-it@14.1.0)
       '@types/markdown-it': 14.1.2
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      vue: 3.5.21
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      vue: 3.5.22
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - markdown-it
       - typescript
 
-  '@vuepress/plugin-markdown-preview@2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-markdown-preview@2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
       '@mdit/helper': 0.22.1(markdown-it@14.1.0)
       '@mdit/plugin-demo': 0.22.2(markdown-it@14.1.0)
       '@types/markdown-it': 14.1.2
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vueuse/core': 13.9.0(vue@3.5.21)
-      vue: 3.5.21
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vueuse/core': 13.9.0(vue@3.5.22)
+      vue: 3.5.22
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - markdown-it
       - typescript
 
-  '@vuepress/plugin-markdown-stylize@2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-markdown-stylize@2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
       '@mdit/plugin-align': 0.22.1(markdown-it@14.1.0)
       '@mdit/plugin-attrs': 0.23.1(markdown-it@14.1.0)
@@ -3316,95 +3316,95 @@ snapshots:
       '@mdit/plugin-sub': 0.22.1(markdown-it@14.1.0)
       '@mdit/plugin-sup': 0.22.1(markdown-it@14.1.0)
       '@types/markdown-it': 14.1.2
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - markdown-it
       - typescript
 
-  '@vuepress/plugin-markdown-tab@2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-markdown-tab@2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
       '@mdit/plugin-tab': 0.22.2(markdown-it@14.1.0)
       '@types/markdown-it': 14.1.2
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vueuse/core': 13.9.0(vue@3.5.21)
-      vue: 3.5.21
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vueuse/core': 13.9.0(vue@3.5.22)
+      vue: 3.5.22
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - markdown-it
       - typescript
 
-  '@vuepress/plugin-notice@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-notice@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vueuse/core': 13.9.0(vue@3.5.21)
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vueuse/core': 13.9.0(vue@3.5.22)
       chokidar: 4.0.3
-      vue: 3.5.21
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      vue: 3.5.22
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - typescript
 
-  '@vuepress/plugin-nprogress@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-nprogress@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      vue: 3.5.21
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      vue: 3.5.22
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - typescript
 
-  '@vuepress/plugin-photo-swipe@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-photo-swipe@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vueuse/core': 13.9.0(vue@3.5.21)
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vueuse/core': 13.9.0(vue@3.5.22)
       photoswipe: 5.4.4
-      vue: 3.5.21
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      vue: 3.5.22
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - typescript
 
-  '@vuepress/plugin-reading-time@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-reading-time@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      vue: 3.5.21
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      vue: 3.5.22
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - typescript
 
-  '@vuepress/plugin-redirect@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-redirect@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vueuse/core': 13.9.0(vue@3.5.21)
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vueuse/core': 13.9.0(vue@3.5.22)
       commander: 14.0.1
-      vue: 3.5.21
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      vue: 3.5.22
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - typescript
 
-  '@vuepress/plugin-rtl@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-rtl@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vueuse/core': 13.9.0(vue@3.5.21)
-      vue: 3.5.21
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vueuse/core': 13.9.0(vue@3.5.22)
+      vue: 3.5.22
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - typescript
 
-  '@vuepress/plugin-sass-palette@2.0.0-rc.112(sass-embedded@1.93.2)(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-sass-palette@2.0.0-rc.112(sass-embedded@1.93.2)(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
       chokidar: 4.0.3
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     optionalDependencies:
       sass: 1.93.2
       sass-embedded: 1.93.2
     transitivePeerDependencies:
       - typescript
 
-  '@vuepress/plugin-sass-palette@2.0.0-rc.56(sass-embedded@1.93.2)(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-sass-palette@2.0.0-rc.56(sass-embedded@1.93.2)(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
-      '@vuepress/helper': 2.0.0-rc.56(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
+      '@vuepress/helper': 2.0.0-rc.56(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
       chokidar: 4.0.3
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     optionalDependencies:
       sass: 1.93.2
       sass-embedded: 1.93.2
@@ -3412,39 +3412,39 @@ snapshots:
       - '@vue/composition-api'
       - typescript
 
-  '@vuepress/plugin-seo@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-seo@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - typescript
 
-  '@vuepress/plugin-shiki@2.0.0-rc.112(@vueuse/core@13.9.0(vue@3.5.21))(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-shiki@2.0.0-rc.112(@vueuse/core@13.9.0(vue@3.5.22))(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
       '@shikijs/transformers': 3.13.0
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/highlighter-helper': 2.0.0-rc.112(@vueuse/core@13.9.0(vue@3.5.21))(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/highlighter-helper': 2.0.0-rc.112(@vueuse/core@13.9.0(vue@3.5.22))(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
       nanoid: 5.1.6
       shiki: 3.13.0
       synckit: 0.11.11
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - '@vueuse/core'
       - typescript
 
-  '@vuepress/plugin-sitemap@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-sitemap@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
       sitemap: 8.0.0
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - typescript
 
-  '@vuepress/plugin-theme-data@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))':
+  '@vuepress/plugin-theme-data@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))':
     dependencies:
       '@vue/devtools-api': 7.7.7
-      vue: 3.5.21
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      vue: 3.5.22
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - typescript
 
@@ -3468,37 +3468,37 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@vueuse/core@11.3.0(vue@3.5.21)':
+  '@vueuse/core@11.3.0(vue@3.5.22)':
     dependencies:
       '@types/web-bluetooth': 0.0.20
       '@vueuse/metadata': 11.3.0
-      '@vueuse/shared': 11.3.0(vue@3.5.21)
-      vue-demi: 0.14.10(vue@3.5.21)
+      '@vueuse/shared': 11.3.0(vue@3.5.22)
+      vue-demi: 0.14.10(vue@3.5.22)
     transitivePeerDependencies:
       - '@vue/composition-api'
       - vue
 
-  '@vueuse/core@13.9.0(vue@3.5.21)':
+  '@vueuse/core@13.9.0(vue@3.5.22)':
     dependencies:
       '@types/web-bluetooth': 0.0.21
       '@vueuse/metadata': 13.9.0
-      '@vueuse/shared': 13.9.0(vue@3.5.21)
-      vue: 3.5.21
+      '@vueuse/shared': 13.9.0(vue@3.5.22)
+      vue: 3.5.22
 
   '@vueuse/metadata@11.3.0': {}
 
   '@vueuse/metadata@13.9.0': {}
 
-  '@vueuse/shared@11.3.0(vue@3.5.21)':
+  '@vueuse/shared@11.3.0(vue@3.5.22)':
     dependencies:
-      vue-demi: 0.14.10(vue@3.5.21)
+      vue-demi: 0.14.10(vue@3.5.22)
     transitivePeerDependencies:
       - '@vue/composition-api'
       - vue
 
-  '@vueuse/shared@13.9.0(vue@3.5.21)':
+  '@vueuse/shared@13.9.0(vue@3.5.22)':
     dependencies:
-      vue: 3.5.21
+      vue: 3.5.22
 
   ansi-regex@5.0.1: {}
 
@@ -3524,7 +3524,7 @@ snapshots:
   autoprefixer@10.4.21(postcss@8.5.6):
     dependencies:
       browserslist: 4.26.2
-      caniuse-lite: 1.0.30001743
+      caniuse-lite: 1.0.30001745
       fraction.js: 4.3.7
       normalize-range: 0.1.2
       picocolors: 1.1.1
@@ -3535,7 +3535,7 @@ snapshots:
 
   balloon-css@1.2.0: {}
 
-  baseline-browser-mapping@2.8.6: {}
+  baseline-browser-mapping@2.8.7: {}
 
   bcrypt-ts@7.1.0: {}
 
@@ -3551,8 +3551,8 @@ snapshots:
 
   browserslist@4.26.2:
     dependencies:
-      baseline-browser-mapping: 2.8.6
-      caniuse-lite: 1.0.30001743
+      baseline-browser-mapping: 2.8.7
+      caniuse-lite: 1.0.30001745
       electron-to-chromium: 1.5.223
       node-releases: 2.0.21
       update-browserslist-db: 1.1.3(browserslist@4.26.2)
@@ -3563,7 +3563,7 @@ snapshots:
 
   camelcase@5.3.1: {}
 
-  caniuse-lite@1.0.30001743: {}
+  caniuse-lite@1.0.30001745: {}
 
   ccount@2.0.1: {}
 
@@ -4531,54 +4531,54 @@ snapshots:
       sass: 1.93.2
       sass-embedded: 1.93.2
 
-  vue-demi@0.14.10(vue@3.5.21):
+  vue-demi@0.14.10(vue@3.5.22):
     dependencies:
-      vue: 3.5.21
+      vue: 3.5.22
 
-  vue-router@4.5.1(vue@3.5.21):
+  vue-router@4.5.1(vue@3.5.22):
     dependencies:
       '@vue/devtools-api': 6.6.4
-      vue: 3.5.21
+      vue: 3.5.22
 
-  vue@3.5.21:
+  vue@3.5.22:
     dependencies:
-      '@vue/compiler-dom': 3.5.21
-      '@vue/compiler-sfc': 3.5.21
-      '@vue/runtime-dom': 3.5.21
-      '@vue/server-renderer': 3.5.21(vue@3.5.21)
-      '@vue/shared': 3.5.21
+      '@vue/compiler-dom': 3.5.22
+      '@vue/compiler-sfc': 3.5.22
+      '@vue/runtime-dom': 3.5.22
+      '@vue/server-renderer': 3.5.22(vue@3.5.22)
+      '@vue/shared': 3.5.22
 
-  vuepress-plugin-components@2.0.0-rc.94(sass-embedded@1.93.2)(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)):
+  vuepress-plugin-components@2.0.0-rc.94(sass-embedded@1.93.2)(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)):
     dependencies:
       '@stackblitz/sdk': 1.11.0
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-sass-palette': 2.0.0-rc.112(sass-embedded@1.93.2)(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vueuse/core': 13.9.0(vue@3.5.21)
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-sass-palette': 2.0.0-rc.112(sass-embedded@1.93.2)(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vueuse/core': 13.9.0(vue@3.5.22)
       balloon-css: 1.2.0
       create-codepen: 2.0.0
       qrcode: 1.5.4
-      vue: 3.5.21
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
-      vuepress-shared: 2.0.0-rc.94(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
+      vue: 3.5.22
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
+      vuepress-shared: 2.0.0-rc.94(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
     optionalDependencies:
       sass: 1.93.2
       sass-embedded: 1.93.2
     transitivePeerDependencies:
       - typescript
 
-  vuepress-plugin-md-enhance@2.0.0-rc.94(markdown-it@14.1.0)(sass-embedded@1.93.2)(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)):
+  vuepress-plugin-md-enhance@2.0.0-rc.94(markdown-it@14.1.0)(sass-embedded@1.93.2)(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)):
     dependencies:
       '@mdit/plugin-container': 0.22.1(markdown-it@14.1.0)
       '@mdit/plugin-demo': 0.22.2(markdown-it@14.1.0)
       '@types/markdown-it': 14.1.2
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-sass-palette': 2.0.0-rc.112(sass-embedded@1.93.2)(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vueuse/core': 13.9.0(vue@3.5.21)
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-sass-palette': 2.0.0-rc.112(sass-embedded@1.93.2)(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vueuse/core': 13.9.0(vue@3.5.22)
       balloon-css: 1.2.0
       js-yaml: 4.1.0
-      vue: 3.5.21
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
-      vuepress-shared: 2.0.0-rc.94(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
+      vue: 3.5.22
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
+      vuepress-shared: 2.0.0-rc.94(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
     optionalDependencies:
       sass: 1.93.2
       sass-embedded: 1.93.2
@@ -4586,17 +4586,17 @@ snapshots:
       - markdown-it
       - typescript
 
-  vuepress-plugin-search-pro@2.0.0-rc.59(sass-embedded@1.93.2)(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)):
+  vuepress-plugin-search-pro@2.0.0-rc.59(sass-embedded@1.93.2)(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)):
     dependencies:
-      '@vuepress/helper': 2.0.0-rc.56(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-sass-palette': 2.0.0-rc.56(sass-embedded@1.93.2)(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vueuse/core': 11.3.0(vue@3.5.21)
+      '@vuepress/helper': 2.0.0-rc.56(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-sass-palette': 2.0.0-rc.56(sass-embedded@1.93.2)(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vueuse/core': 11.3.0(vue@3.5.22)
       cheerio: 1.0.0
       chokidar: 3.6.0
       slimsearch: 2.2.2
-      vue: 3.5.21
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
-      vuepress-shared: 2.0.0-rc.59(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
+      vue: 3.5.22
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
+      vuepress-shared: 2.0.0-rc.59(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
     optionalDependencies:
       sass: 1.93.2
       sass-embedded: 1.93.2
@@ -4604,68 +4604,68 @@ snapshots:
       - '@vue/composition-api'
       - typescript
 
-  vuepress-shared@2.0.0-rc.59(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)):
+  vuepress-shared@2.0.0-rc.59(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)):
     dependencies:
-      '@vuepress/helper': 2.0.0-rc.56(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vueuse/core': 11.3.0(vue@3.5.21)
+      '@vuepress/helper': 2.0.0-rc.56(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vueuse/core': 11.3.0(vue@3.5.22)
       dayjs: 1.11.18
-      vue: 3.5.21
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      vue: 3.5.22
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - '@vue/composition-api'
       - typescript
 
-  vuepress-shared@2.0.0-rc.94(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)):
+  vuepress-shared@2.0.0-rc.94(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)):
     dependencies:
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vueuse/core': 13.9.0(vue@3.5.21)
-      vue: 3.5.21
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vueuse/core': 13.9.0(vue@3.5.22)
+      vue: 3.5.22
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
     transitivePeerDependencies:
       - typescript
 
-  vuepress-theme-hope@2.0.0-rc.94(markdown-it@14.1.0)(sass-embedded@1.93.2)(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)):
+  vuepress-theme-hope@2.0.0-rc.94(markdown-it@14.1.0)(sass-embedded@1.93.2)(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)):
     dependencies:
-      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-active-header-links': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-back-to-top': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-blog': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-catalog': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-comment': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-copy-code': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-copyright': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-git': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-icon': 2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-links-check': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-markdown-chart': 2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-markdown-ext': 2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-markdown-hint': 2.0.0-rc.112(markdown-it@14.1.0)(vue@3.5.21)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-markdown-image': 2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-markdown-include': 2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-markdown-math': 2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-markdown-preview': 2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-markdown-stylize': 2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-markdown-tab': 2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-notice': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-nprogress': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-photo-swipe': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-reading-time': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-redirect': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-rtl': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-sass-palette': 2.0.0-rc.112(sass-embedded@1.93.2)(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-seo': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-shiki': 2.0.0-rc.112(@vueuse/core@13.9.0(vue@3.5.21))(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-sitemap': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vuepress/plugin-theme-data': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      '@vueuse/core': 13.9.0(vue@3.5.21)
+      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-active-header-links': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-back-to-top': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-blog': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-catalog': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-comment': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-copy-code': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-copyright': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-git': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-icon': 2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-links-check': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-markdown-chart': 2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-markdown-ext': 2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-markdown-hint': 2.0.0-rc.112(markdown-it@14.1.0)(vue@3.5.22)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-markdown-image': 2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-markdown-include': 2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-markdown-math': 2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-markdown-preview': 2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-markdown-stylize': 2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-markdown-tab': 2.0.0-rc.112(markdown-it@14.1.0)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-notice': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-nprogress': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-photo-swipe': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-reading-time': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-redirect': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-rtl': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-sass-palette': 2.0.0-rc.112(sass-embedded@1.93.2)(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-seo': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-shiki': 2.0.0-rc.112(@vueuse/core@13.9.0(vue@3.5.22))(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-sitemap': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vuepress/plugin-theme-data': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      '@vueuse/core': 13.9.0(vue@3.5.22)
       balloon-css: 1.2.0
       bcrypt-ts: 7.1.0
       chokidar: 4.0.3
-      vue: 3.5.21
-      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21)
-      vuepress-plugin-components: 2.0.0-rc.94(sass-embedded@1.93.2)(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      vuepress-plugin-md-enhance: 2.0.0-rc.94(markdown-it@14.1.0)(sass-embedded@1.93.2)(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
-      vuepress-shared: 2.0.0-rc.94(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21))
+      vue: 3.5.22
+      vuepress: 2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22)
+      vuepress-plugin-components: 2.0.0-rc.94(sass-embedded@1.93.2)(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      vuepress-plugin-md-enhance: 2.0.0-rc.94(markdown-it@14.1.0)(sass-embedded@1.93.2)(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
+      vuepress-shared: 2.0.0-rc.94(vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22))
     optionalDependencies:
       sass: 1.93.2
       sass-embedded: 1.93.2
@@ -4693,7 +4693,7 @@ snapshots:
       - typescript
       - vidstack
 
-  vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.21):
+  vuepress@2.0.0-rc.24(@vuepress/bundler-vite@2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2))(vue@3.5.22):
     dependencies:
       '@vuepress/cli': 2.0.0-rc.24
       '@vuepress/client': 2.0.0-rc.24
@@ -4701,7 +4701,7 @@ snapshots:
       '@vuepress/markdown': 2.0.0-rc.24
       '@vuepress/shared': 2.0.0-rc.24
       '@vuepress/utils': 2.0.0-rc.24
-      vue: 3.5.21
+      vue: 3.5.22
     optionalDependencies:
       '@vuepress/bundler-vite': 2.0.0-rc.24(@types/node@24.5.2)(sass-embedded@1.93.2)(sass@1.93.2)
     transitivePeerDependencies:

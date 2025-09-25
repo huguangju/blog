@@ -55,7 +55,7 @@ $$UI = f(state)$$
 
 JSX 是 Meta 提出的一种 “类 XML 语法” 的 ECMAScript 语法糖。如下语句：
 
-```react
+```jsx
 const element = <h1>Hello world</h1>
 ```
 

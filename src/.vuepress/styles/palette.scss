@@ -1,4 +1,7 @@
-// 背景色配置 - 更清爽的背景
+// 应用字体
+// $vp-font: '"LXGW Bright", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", ui-serif, Georgia, Cambria, "Times New Roman", Times', serif;
+
+// 背景色配置
 $vp-c-bg: (
   light: #ffffff,
   dark: #1a1a1a,
@@ -12,7 +15,7 @@ $vp-c-bg-elv: (
   dark: #2d2d2d,
 );
 
-// 文字颜色 - 参考 Vue 官方文档
+// 文字颜色
 $vp-c-text: (
   light: #2c3e50,
   dark: #adbac7,

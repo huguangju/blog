@@ -1,5 +1,6 @@
 ---
 home: true
+layout: Blog
 icon: ant-design:home-outlined
 title: 主页
 heroImage: /logo.svg
